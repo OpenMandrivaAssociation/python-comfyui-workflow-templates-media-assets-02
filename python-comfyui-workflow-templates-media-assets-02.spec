@@ -1,5 +1,5 @@
 Name:		python-comfyui-workflow-templates-media-assets-02
-Version:	0.1.29
+Version:	0.1.30
 Release:	1
 Summary:	Workflow template preview assets for ComfyUI
 License:	MIT
